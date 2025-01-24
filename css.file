@@ -1,0 +1,12 @@
+/* Custom Styles for Modal */
+.modal-content {
+  border: 2px solid skyblue;
+  width: 90%; /* Stretch modal width */
+  max-width: 1200px; /* Optional: Limit the maximum width */
+}
+.modal-dialog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Ensure modal is centered vertically */
+}
